@@ -1,2 +1,2 @@
-# Initial page
+# 欢迎来到Wiki
 
